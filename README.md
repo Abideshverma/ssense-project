@@ -1,5 +1,5 @@
 # ssense-project
-This is the project about clone of SSENSE website. It is an eCommerce website For Clothing and Fashion Accessories. This project was completed in 5 days with 6 member teams.
+This is the project about clone of SSENSE website. It is an eCommerce website For Clothing and Fashion Accessories. The system provides a range of essential functionalities to enhance the user experience when interacting with the  platform's e-commerce services. 
 
  ## Features :-
   - Login/Signup
